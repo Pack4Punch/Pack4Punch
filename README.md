@@ -1,9 +1,11 @@
-## Hi there 👋
+## Hello, my name is Wesley Costa Lima. I am Brazilian and am currently studying Systems Analysis and Development; here, you can see some of my projects. 
+Trabalhos e Projetos 
 
+[Projeto integrador - (Sobre IA e Machine learning) ](https://www.canva.com/design/DAGXhf9EUfM/EYC2vGjSpsh6Ee6tmBETIw/edit)
 <!--
-**wcostalima921-arch/wcostalima921-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**wcostalima921-arch/wcostalima921-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-Here are some ideas to get you started:
+Projetos e trabalhos:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
