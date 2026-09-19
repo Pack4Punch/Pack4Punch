@@ -1,18 +1,14 @@
-## Hello, my name is Wesley Costa Lima. I am Brazilian and am currently studying Systems Analysis and Development; here, you can see some of my projects. 
-Trabalhos e Projetos 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=880ABF&height=120&section=header"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Karantina&size=230&duration=2000&pause=2000&color=880ABF&center=true&vCenter=true&width=4920&height=500&lines=Pack4Punch;Hello%2C+my+name+is+Wesley+Costa+Lima%2C;I+am+20+years+old+and+Brazilian%2C;and+am+currently+studying+Systems+Analysis+and+Developmentpment%2C;here%2C+you+can+see+some+of+my+projects.;Welcome!)](https://git.io/typing-svg)
+___
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-stats-extended.vercel.app/api?username=Pack4Punch&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Wesley Costa Lima github stats"/> 
+  <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pack4Punch&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+
+**Trabalhos e Projetos** 
 
 [Projeto integrador - (Sobre IA e Machine learning) ](https://www.canva.com/design/DAGXhf9EUfM/EYC2vGjSpsh6Ee6tmBETIw/edit)
-<!--
-**wcostalima921-arch/wcostalima921-arch** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. 
 
-Projetos e trabalhos:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
