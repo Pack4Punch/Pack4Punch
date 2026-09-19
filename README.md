@@ -7,6 +7,7 @@ ___
   <img width="41%" height="195px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=Pack4Punch&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
 </div>
 
+![snake gif](https://github.com/Pack4Punch/Pack4Punch/blob/output/github-contribution-grid-snake.gif)
 
 **Trabalhos e Projetos** 
 
